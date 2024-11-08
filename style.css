@@ -1,22 +1,25 @@
 body{
     background: #1e1c1c;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+ 
 }
 p,h1,h2,h3,h4,h5,h6{
     color: aliceblue;
+    font-family:cursive ;
 }
 
 form{
     border-radius: 5px;
     border-color: aliceblue;
+    text-align: center;
 }
 .form{
     background: #386f70;
     border: #b9a2a2;
+    text-align: left;
 }
 
 label{
-    
     margin-right: 120px;
     color: aliceblue;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
